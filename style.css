@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #05060a;
+    color: white;
+}
+
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.fill {
+    background: #7b8cff;
+    border: none;
+    color: black;
+}
+
+.outline {
+    background: transparent;
+    border: 1px solid #333;
+    color: white;
+}
+
+.card.price {
+    background: #0d0f1a;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+}
